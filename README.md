@@ -2,21 +2,21 @@
 
 This assessment takes the form of a coding exercise and is designed to run on **NodeJS**.
 
-[_Payments-o-matic_](http://jsfiddle.net/OwenPatey/b0e0n7u2/)isa brand new web application that was conceived as an onlinepayments management system for small companies to track their outgoings. There has already been some effort invested in the project that has resulted in some initial HTML, JavaScript and CSS code.
+[_Payments-o-matic_](http://jsfiddle.net/OwenPatey/b0e0n7u2/) is a brand new web application that was conceived as an onlinepayments management system for small companies to track their outgoings. There has already been some effort invested in the project that has resulted in some initial HTML, JavaScript and CSS code.
 
 Your task is to bring this line-of-business application to life (End to end) by implementing the functionality in the next 4 development backlog items, as directed by your Product Owner. You should use NodeJS for backend and AngularJS for frontend functionality. For persistence, you could use, file based approach. At every crud operation, use a simple file, to update information about payment.
 
 Submitting your code
 
-Sample HTML, CSS and javascript has been uploaded to below.
+Sample HTML, CSS and javascript has been uploaded to below link.
 
 [https://github.com/sanketbajoria/node-angular-assessment](https://github.com/sanketbajoria/node-angular-assessment).
 
 Please, fork this repository, do the changes, and, send the solution, in zip format.
 
-# Ticket-1
+Please, do the front end related changes in client folder and back end related changes in server folder.
 
-#
+# Ticket-1
 
 As a user, I want to be able to show and hide a form that displays the details of a selected payment.
 
@@ -74,7 +74,6 @@ The payment details form
 
 # Ticket-2
 
-#
 
 As a user, I want to be able to edit payment details and save my changes.
 
@@ -128,7 +127,6 @@ Saving the payment updates the list
 
 # Ticket-3
 
-#
 
 As a user, I want to be able to create new payments and delete existing payments
 
@@ -176,7 +174,6 @@ The form when creating a new payment
 
 # Ticket-4
 
-#
 
 As a user, I want any inputs and edits to be properly validated. I want the save button to be disabled until all the fields contain valid data.
 
@@ -273,6 +270,5 @@ New payment with some invalid fields
 
 Existing payment with invalid Currency field
 
-#License
----
+# License
 MIT
